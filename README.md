@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<p>I'm studying Cellular and molecular biology at Université de Sherbrooke, in Canada. I have a bachelor's degree in Economics and I speak French, English and German.
-</p>
+<p>I'm studying Cellular and molecular biology at Université de Sherbrooke, in Canada. I have a bachelor's degree in Economics and I speak French, English and German. I am also a craft beer specialist and still have a foot in that sector in my hometown. </p>
+
 <p>I'm currently doing an internship in Laforest-Lapointe Lab, where I'm learning to use different tools to process metagenomic (currently shotgun) data from samples to analysis. This lab deals in microbial ecology, so I apply these tools in the context of microbiome studies in humans and plants. One of my goals is to create pipelines suited to the needs of my colleagues' research and make them available to the public.</p>
 
 <p>Since there are several available, seemingly substitutable tools for each single step of any metagenomic pipeline, I am also reviewing the literature to understand, and eventually advise on, which tool to use for any given step. Metagenomic research publications often lack a rationale behind the choice of tools, which suggests such a choice is often being made based on what others have done. In such a case, any bias introduced by a given tool spreads across the literature and a tool with a high citation rate may give a false impression of gold-standard.</p>

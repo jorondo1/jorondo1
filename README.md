@@ -6,13 +6,23 @@
 
 <p>Since there are several available, seemingly substitutable tools for each single step of any metagenomic pipeline, I am also reviewing the literature to understand, and eventually advise on, which tool to use for any given step. Metagenomic research publications often lack a rationale behind the choice of tools, which suggests such a choice is often being made based on what others have done. In such a case, any bias introduced by a given tool spreads across the literature and a tool with a high citation rate may give a false impression of gold-standard.</p>
   
-###A case for deeper benchmarking of bioinformatic tools accuracy 
-<p>As of 2022, many bioinformatic tools have been reviewed, tested and benchmarked; however, the focus is often on computational requirements. I want to find out which tools are the most accurate and what biases are being introduced by each approach. Although some benchmarking have measured this for certain types of tools (especially assemblers and aligners), the answer is often non-triviial, especially with assembly-based (de novo) approaches. </p>
+### A case for deeper benchmarking of bioinformatic tools accuracy
+<p>As of 2022, many bioinformatic tools have been reviewed, tested and benchmarked; however, the focus is often on computational requirements. I want to find out which tools are the most accurate and what biases are being introduced by each approach. Although some benchmarking have produced such information for certain tools (especially assemblers and aligners), the answer is often non-triviial, especially with assembly-based (de novo) approaches. </p>
 
-<p>Though it is possible that one day gold-standards be recognized in metagenomic research, many parameters and tool choices seem to depend on data quality, research objectives and processing approach choices. Since the field of metagenomics is undergoing an extremely fast evolution, I expect that the best way to help researchers prepare their data for downstream analyses is not only to make the tools accessible, but to guide them in choosing the right tools and parameters thereof.
+<p>Though it is possible that, one day, gold-standards be recognized in metagenomic bioinformatics, many parameters and tool choices seem to depend on data quality and origin, research objectives, and processing approach choices. Since the field of metagenomics is undergoing an extremely fast evolution, I expect that the best way to help researchers prepare their data for downstream analyses is not only to make the tools accessible, but to guide them in choosing the right tools and parameters thereof.</p> <p>In this regard, my goal is to summarize </p>
+<ul>
+  <li>which tools are better suited to any given data processing task;</li>
+  <li>their function and crucial parameters; </li>
+  <li>the reviews supporting their accuracy; </li>
+  <li>articles supporting the choice of parameters; </li>
+  <li>any recommended best practice for their use.</li>
+</ul>
+
+<p>I believe that such information will be valuable to any researcher who does not want to blindly rely on preconceived pipelines that may or may not suit their data and scientific objectives. I think any bioinformatic analysis should be understood and thought-through before being run, and therefore believe that a tool-intensive process such as metagenome sequencing data processing should be pondered and understood.</p>
+
+<p>This is a work in progress in its early stage. My notes are mostly draft and I am getting acquainted with GitHub. More updates along the way!</p>
   
-
-
+  
 <!--
 **jorondo1/jorondo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

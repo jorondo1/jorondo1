@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-<p>I'm studying Cellular and molecular biology at Université de Sherbrooke, in Canada. I have a bachelor's degree in Economics and I speak French, English and German. I am also a craft beer specialist and still have a foot in that sector in my hometown. My résumé can be found [here](https://usherbrooke-my.sharepoint.com/:b:/g/personal/ronj2303_usherbrooke_ca/Ee5lqqpjDRBHjfMTFzZfOQEBDQytlZ8jsChr1keRq56Aew?e=h32PDb). </p>
+<p>I'm studying Cellular and molecular biology at Université de Sherbrooke, in Canada. I have a bachelor's degree in Economics and I speak French, English and German. I am also a craft beer specialist and still have a foot in that sector in my hometown. My résumé can be found here: https://bit.ly/resumeJRL. </p>
 
 <p>I'm currently doing an internship in Laforest-Lapointe Lab, where I'm learning to use different tools to process metagenomic (currently shotgun) data from samples to analysis. This lab deals in microbial ecology, so I apply these tools in the context of microbiome studies in humans and plants. I have been testing all kinds of tools and implementing them in pipelines suited to the needs of my colleagues' research and plan on making them available to the public.</p>
 

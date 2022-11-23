@@ -20,10 +20,7 @@
   <li>any recommended best practice for their use.</li>
 </ul>
 
-<p>I believe that such information will be valuable to any researcher who does not want to blindly rely on preconceived pipelines that may or may not suit their data and scientific objectives. I think any bioinformatic analysis should be understood and thought-through before being run, and therefore believe that a tool-intensive process such as metagenome sequencing data processing should be pondered and understood.</p>
-
-<p>This is a work in progress in its early stage. My notes are mostly draft and I am getting acquainted with GitHub. More updates along the way!</p>
-  
+<p>I believe that such information will be valuable to any researcher who does not want to blindly rely on preconceived pipelines that may or may not suit their data and scientific objectives. I think any bioinformatic analysis should be understood and thought-through before being run, and therefore believe that a tool-intensive process such as metagenome sequencing data processing should be pondered and understood.</p>  
   
 <!--
 **jorondo1/jorondo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

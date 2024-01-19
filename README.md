@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-<p>I'm a biologist currently doing my Master in Biology at Université de Sherbrooke, in Canada. I have a bachelor's degree in Economics as well and I speak French, English and German. I've been a craft beer specialist since 2011 and still have a foot in that sector in my hometown. My résumé can be found [here]([url](https://usherbrooke-my.sharepoint.com/:b:/g/personal/ronj2303_usherbrooke_ca/Ee5lqqpjDRBHjfMTFzZfOQEB9D1K6H3Z0kHY3aGpNjyY_w?e=bj28gw)). </p>
+<p>I'm a biologist currently doing my Master in Biology at Université de Sherbrooke, in Canada. I have a bachelor's degree in Economics as well and I speak French, English and German. I've been a craft beer specialist since 2011 and still have a foot in that sector in my hometown. My résumé can be found [here](https://usherbrooke-my.sharepoint.com/:b:/g/personal/ronj2303_usherbrooke_ca/Ee5lqqpjDRBHjfMTFzZfOQEB9D1K6H3Z0kHY3aGpNjyY_w?e=bj28gw). </p>
 
 <p>The [Laforest-Lapointe Lab](https://www.laforestlab.com/) deals in microbial ecology. I apply several bioinformatic tools in the context of microbiome studies in humans and plants. I have been testing all kinds of tools and implementing them in pipelines suited to the needs of my colleagues' research. I am currently working on a Boreal Moss Microbiome project and a Human Saliva microbiome project, each of which present several technical and methodological challenges. Alongside this, I try to steadily push my understanding of statistics and key ecological theories.</p>
 
